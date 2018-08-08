@@ -28,6 +28,11 @@ body {
 	blinkTextCursor 500ms steps(40) infinite normal;
  }
 
+.anim-typewriter1 {
+	animation: typewriter 4s steps(40) 5s 1 normal both, 
+	blinkTextCursor 500ms steps(40) infinite normal;
+ }
+
  @keyframes typewriter {
  	from {
  		width: 0;
