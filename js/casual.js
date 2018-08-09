@@ -7,7 +7,7 @@ var options = {
 
 // var typed = new Typed("#typed_test", options);
 var typed = new Typed("#typed_test", {
-	strings: ["Problem Solver", "Soccer Enthusiast", "Chess Player", "Sports Fan"],
+	strings: ["Problem Solver", "Soccer Enthusiast", "Chess Player", "Sports Fan", "avid reader", "poet"],
     typeSpeed: 50,
     backSpeed: 50,
     backDelay: 750,
